@@ -7,6 +7,7 @@ Where we get you to the planets of your choice. We’ll help you getting our lux
 
 .
 
+I have used functions to build this project.
 
 I would be happy to get your suggestions and advice. Check it out!
 
